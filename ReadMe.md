@@ -26,10 +26,6 @@ The project is structured around four main sections:
 
 **D. Extra Challenge**: Introduces a more complex scenario involving interest-based data allocation, challenging the calculation of data growth on a daily basis.
 
-### Extension Request
-
-As an extension to the core analysis, the Data Bank team requests the creation of a PowerPoint presentation using the project outputs for marketing purposes. This presentation will highlight Data Bank's security features and provide insights into the various options for data provisioning.
-
 ### Contributors
 
 This MySQL portfolio project was completed by Syed Muhammad Mustafa a as part of the Atomcamp cohort program.
