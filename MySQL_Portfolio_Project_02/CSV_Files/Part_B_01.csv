@@ -1,0 +1,4 @@
+Transaction_Type,Unique_Count,Total_Amount
+deposit,500,2671
+purchase,448,1617
+withdrawal,439,1580
